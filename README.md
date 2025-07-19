@@ -33,7 +33,7 @@ pip install git+https://github.com/etienney/dynamiqs_adaptive.git
 
 ## Truncation estimator 
 
-This is a basic example of a 1-mode dynamic defined in H, jump_ops, and an initial rho, with the adaptive solver using all its options.
+This is a basic example of a 1-mode dynamic defined in H, jump_ops, and an initial rho.
 ```python
 import dynamiqs_adaptive as dq
 import jax.numpy as jnp
